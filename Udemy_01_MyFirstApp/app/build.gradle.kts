@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "xyz.danicostas.udemy_01_myfirstapp"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "xyz.danicostas.udemy_01_myfirstapp"
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
