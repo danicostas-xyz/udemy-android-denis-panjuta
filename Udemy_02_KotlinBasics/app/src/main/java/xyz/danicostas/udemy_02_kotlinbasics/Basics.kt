@@ -1,6 +1,7 @@
 package xyz.danicostas.udemy_02_kotlinbasics
 
 fun main() {
+/*Empty Comment*/
 
     /*
     En Kotlin, la diferencia entre val y var está en la mutabilidad:
